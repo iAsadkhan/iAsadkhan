@@ -50,7 +50,7 @@ I'm a passionate **Senior Frontend Shopify Developer** with expertise in buildin
 
 <div align="center">
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iasadkhan&" alt="iasadkhan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iasadkhan&" alt="iasadkhan"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iasadkhan&show_icons=true&locale=en&layout=compact" alt="iasadkhan" /></p>
   
  </div>
