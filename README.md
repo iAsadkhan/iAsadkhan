@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asad Khan</h1>
-<h3 align="center">Senior Frontend Shopify Developer | Full-Stack Engineer | Tech Lead</h3>
+<h3 align="center">Full-Stack Engineer(Frontend Focused) | Shopify Expert | Tech Lead</h3>
 
 🚀 **About Me**  
 I'm a passionate **Senior Frontend Shopify Developer** with expertise in building and optimizing e-commerce experiences. I have a track record of leading teams, managing end-to-end Shopify projects, and working with top brands like **Wilson, Salomon, Budhi Mudra, and more**. My strength lies in crafting high-performance storefronts, headless commerce solutions, and scalable Shopify applications.
@@ -48,12 +48,11 @@ I'm a passionate **Senior Frontend Shopify Developer** with expertise in buildin
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iasadkhan&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iasadkhan&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<div align="center">
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iasadkhan&" alt="iasadkhan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iasadkhan&show_icons=true&locale=en&layout=compact" alt="iasadkhan" /></p>
+  
+ </div>
 
 ---
