@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asad Khan</h1>
+<h1 align="center">Hi 👋, I'm Asad</h1>
 <h3 align="center">Full-Stack Engineer(Frontend Focused) | Shopify Expert | Tech Lead</h3>
 
 🚀 **About Me**  
