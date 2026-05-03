@@ -19,7 +19,7 @@ I'm a passionate **Senior Frontend Shopify Developer** with expertise in buildin
 **Frontend Development | Shopify | React | Liquid | Project Management**
 
 📫 **Let's Connect:**  
-[LinkedIn](https://linkedin.com/in/iasadkhan) | [GitHub](https://github.com/iasadkhan) | [Email](mailto:iasadkhan0@gmail.com)
+[LinkedIn](https://linkedin.com/in/iasadkhan) | [GitHub](https://github.com/iasadkhan) | [Email](mailto:iasadkhan0@gmail.com) | [Website](https://asadev.xyz)
 
 ---
 
